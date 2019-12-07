@@ -1,0 +1,12 @@
+[package]
+name = "aoc2019"
+version = "0.1.0"
+authors = ["Antoine POPINEAU <antoine.popineau@appscho.com>"]
+edition = "2018"
+
+[dependencies]
+itertools = "0.8.2"
+regex = "1"
+num = "0.2"
+termion = "*"
+chrono = "0.4"

@@ -1,0 +1,12 @@
+unstable_features = true
+edition = "2018"
+use_small_heuristics = "Max"
+error_on_line_overflow = false
+merge_imports = true
+reorder_imports = true
+use_try_shorthand = true
+tab_spaces = 2
+color = "Never"
+condense_wildcard_suffixes = true
+fn_args_layout = "Compressed"
+max_width = 80
